@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_qa/
+
+Sitemap: https://idek7us-cpu.github.io/demo-baandee-construction/sitemap.xml
